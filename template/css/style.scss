@@ -9,6 +9,7 @@
 2.0 Home Hero
   2.1 Contact
 3.0 Posts
+  3.1 Projects
 4.0 Footer
 
 --------------------------------------------------------------*/
@@ -317,6 +318,64 @@ button.btn, input.btn {
     display: flex;
 }
 
+/*--------------------------------------------------------------
+    3.1 Projects
+--------------------------------------------------------------*/
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    padding: 1rem 0;
+  }
+  
+  .project-card {
+    background: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    text-align: center;
+    transition: transform 0.2s ease;
+  }
+  
+  .project-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .project-card img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .project-card h3 {
+    margin: 1.5rem 0 0.25rem;
+    font-size: 1.2rem;
+    color: #222;
+  }
+  
+  .project-card p {
+    color: #666;
+    padding: 0 1rem 1rem;
+    font-size: 1.1rem;
+  }
+  
+  .album-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1rem;
+    padding-top: 1rem;
+  }
+  
+  .album-item img {
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease;
+  }
+  
+  .album-item img:hover {
+    transform: scale(1.02);
+  }
 /*--------------------------------------------------------------
 	4.0 Footer
 --------------------------------------------------------------*/

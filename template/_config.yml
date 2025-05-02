@@ -22,6 +22,9 @@ github_username: 'brandinmUC'
 linkedin_username: 'brandin-moore'
 
 
+collections:
+  projects:
+    output: true
 
 # Build settings
 markdown: kramdown
