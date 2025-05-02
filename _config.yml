@@ -17,7 +17,7 @@ title: "Brandin Moore"
 email: 'brandinm@uchicago.edu'
 description: "I'm a programmer and photographer from New York, creating accessible technology and capturing stories."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://brandinmUC.github.io/website" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://github.com/jamigibbs/phantom # "https://brandinmUC.github.io/website" # the base hostname & protocol for your site, e.g. https://example.com
 github_username: 'brandinmUC'
 linkedin_username: 'brandin-moore'
 
