@@ -28,5 +28,17 @@ images:
     - '../img/Projects/Visuals Series/P1111703.JPG'
     - '../img/Projects/Visuals Series/P1111640.JPG'
     - '../img/Projects/Visuals Series/IMG_3937.JPG'
+
+artist_statement: "The Visuals Series at UChicago is a “space for Black beauty, euphoria, and excellence to be celebrated”. Each season includes thematic, student-led projects that highlight these three tenets. My practice aims to capture the energy of each moment in the story through specific lighting, positioning, and framing techniques. The photos displayed are captured from the following projects:
+-	Reclamation: The American Cowboy
+-	The Performance of Self
+-	The Colors of Love
+-	The Pursuit of Friendship
+-	Black Wealth
+-	We Wear the Mask
+-	Expressionism
+-	Grief
+-	The Movement Never Left
+-	Melanin in Nature"
 ---
 

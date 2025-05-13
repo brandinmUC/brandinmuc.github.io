@@ -32,4 +32,7 @@ images:
     - '../img/Projects/Summer Breeze 2024/P1000778.JPG'
     - '../img/Projects/Summer Breeze 2024/P1000783.JPG'
     - '../img/Projects/Summer Breeze 2024/P1000817.JPG'
+
+artist_statement: "The Major Activities Board is a platform dedicated to bringing the best entertainment acts to the University of Chicago. Their premier event is Summer Breeze, a concert that takes place near the end of Spring Quarter and brings together major artists. The 2024 Summer Breeze concert featured Indigo De Souza, COIN, and NLE Choppa. My practice aimed to highlight the most energetic moments of the concert."
+
 ---
